@@ -27,7 +27,7 @@ As a newly selected **Student Digital Ambassador**, my role is to help my peers 
 
 I created a visual infographic to help batchmates understand the definition of digital literacy and essential safe internet practices. This resource covers topics such as useful digital tools and professional online presence.
 
-  * **Deliverable:** [Infographic Link](https://www.google.com/search?q=./task-1-presentation/)
+  * **Deliverable:** [Infographic Link](https://github.com/lavishvishwakarma789987-rgb/digital-literacy-project/blob/main/task-1-presentation/Task-1-Infographic.jpg)
 
 ### **Module 2: Professional Digital Portfolio**
 
